@@ -1,4 +1,4 @@
-A cheap instagram (isch) knockoff.
+An instagram knockoff (or something like that).
 
 For Frontend stuff like animations etc. I used React and Framer Motion. (npm install framer-motion)
 
