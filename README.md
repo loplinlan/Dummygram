@@ -1,5 +1,7 @@
 An instagram knockoff (or something like that).
 
+You basically select an image that is either a png or jpeg file, and then you will notice that a progress bar will load very quickly, and after that you will see the selected image of your choice on the screen. Enjoy I guess.
+
 For Frontend stuff like animations etc. I used React and Framer Motion. (npm install framer-motion)
 
 For Backend stuff I used Firebase storage to store images, 
